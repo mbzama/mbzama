@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate IT professional with expertise in modern technologies and a strong focus on innovative solutions. I love building scalable applications, exploring AI/ML technologies using open-source projects.
+I'm a passionate IT professional with expertise in modern technologies and a strong focus on innovative solutions.
 
-- 🔭 Currently working on **AI-powered applications** and **cloud infrastructure**
+- 🔭 Currently working on **AI-powered applications**
 - 🌱 Learning advanced **Machine Learning** and **DevOps** practices
 - 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **DevOps, Cloud (AWS/GCP/Azure), AI/ML**
+- 💬 Ask me about **DevOps, Cloud (AWS/GCP/Azure), AI/ML, Blockchain**
 - 📫 How to reach me: **[Your Email]**
 - ⚡ Fun fact: I enjoy automating everything!
 
@@ -26,11 +26,11 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Steamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Steamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge)
 
 ### Backend
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -52,6 +52,10 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Blockchain Technologies
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 </div>
 
