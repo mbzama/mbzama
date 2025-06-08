@@ -81,10 +81,6 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbzama&show_icons=true&count_private=true&include_all_commits=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbzama&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
