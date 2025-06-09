@@ -17,13 +17,11 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 
 ## 🤝 Let's Connect!
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-badiyu-zama-83223118/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zamambit)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-badiyu-zama-83223118/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zamambit) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zamamb@gmail.com)
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mbzama&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ## 🛠️ Technical Skills
