@@ -12,7 +12,7 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 - 🌱 Learning advanced **Machine Learning** and **DevOps** practices
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **DevOps, Cloud (AWS/GCP/Azure), AI/ML, Blockchain**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **zamamb@gmail.com**
 - ⚡ Fun fact: I enjoy automating everything!
 
 ## 🤝 Let's Connect!
