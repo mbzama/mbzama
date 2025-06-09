@@ -1,4 +1,4 @@
-# Hi there, I'm mbzama! 👋
+# Hi there, I'm Zama! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=IT+Professional;Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Solutions+Architect" alt="Typing SVG" />
@@ -23,6 +23,15 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zamamb@gmail.com)
 
 </div>
+
+## 📊 GitHub Stats
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbzama&layout=compact)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbzama)](https://git.io/streak-stats)
+</div>
+
 
 ## 🛠️ Technical Skills
 
@@ -68,6 +77,14 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 
 </div>
 
+## 🌟 What I'm Working On
+
+- 📚 **Currently focussed on Learning:** Advanced Gen AI and MLOps
+- 🔬 **Research Project:** Exploring federated learning for privacy-preserving ML
+- 🎯 **Goal:** Building enterprise level AI solutions
+
+---
+
 ## 🎯 Featured Projects
 
 ### 🤖 AI-Powered Chat Assistant
@@ -83,32 +100,6 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 - 💬 Real-time messaging with WebSocket
 - 📊 Conversation analytics dashboard
 - 🔄 Continuous learning from interactions
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbzama&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mbzama&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 🌟 What I'm Working On
-
-- 🔬 **Research Project:** Exploring federated learning for privacy-preserving ML
-- 🚀 **Open Source:** Contributing to popular ML frameworks
-- 📚 **Learning:** Advanced MLOps and AI Ethics
-- 🎯 **Goal:** Building more inclusive and accessible AI solutions
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbzama&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
 
 ---
 
