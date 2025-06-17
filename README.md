@@ -29,7 +29,7 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 ## � Technical Guides
 <div align="left">
 
-[![Neural Networks](https://img.shields.io/badge/🧠_Neural_Networks-FF6B6B?style=for-the-badge&logoColor=white)](https://mbzama.github.io/neuralnetworks.github.io/)
+[![AI](https://img.shields.io/badge/🧠_Neural_Networks-FF6B6B?style=for-the-badge&logoColor=white)](https://mbzama.github.io/ai.github.io/)
 
 </div>
 
