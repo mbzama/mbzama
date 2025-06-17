@@ -29,14 +29,14 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 ## � Technical Guides
 <div align="left">
 
-[![AI](https://img.shields.io/badge/🧠_Neural_Networks-FF6B6B?style=for-the-badge&logoColor=white)](https://mbzama.github.io/ai.github.io/)
+[![AI](https://img.shields.io/badge/🤖_AI-4ECDC4?style=for-the-badge&logoColor=white)](https://mbzama.github.io/ai.github.io/)
 
 </div>
 
 ## 🌟 Featured Projects
 <div align="left">
 
-[![AI/ML](https://img.shields.io/badge/🤖_AI/ML_Projects-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/mbzama/AI-ML-Projects)
+[![AI/ML](https://img.shields.io/badge/🤖_AI/ML-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/mbzama/AI-ML-Projects)
 
 [![Blockchain Hyperledger](https://img.shields.io/badge/🔗_Hyperledger_Fabric-2F3E50?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/mbzama/Blockchain-Hyperledger-Fabric)
 
