@@ -24,6 +24,25 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 
 </div>
 
+---
+
+## � Technical Guides
+<div align="left">
+
+[![Neural Networks](https://img.shields.io/badge/🧠_Neural_Networks-FF6B6B?style=for-the-badge&logoColor=white)](https://mbzama.github.io/neuralnetworks.github.io/)
+
+</div>
+
+## 🌟 Featured Projects
+<div align="left">
+
+[![AI/ML](https://img.shields.io/badge/🤖_AI/ML_Projects-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/mbzama/AI-ML-Projects)
+
+[![Blockchain Hyperledger](https://img.shields.io/badge/🔗_Hyperledger_Fabric-2F3E50?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/mbzama/Blockchain-Hyperledger-Fabric)
+
+</div>
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -64,14 +83,14 @@ I'm a passionate IT professional with expertise in modern technologies and a str
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Blockchain Technologies
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Hyperledger Fabric](https://img.shields.io/badge/🔗_Hyperledger_Fabric-2F3E50?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Ethereum](https://img.shields.io/badge/💎_Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## �📊 GitHub Stats
 <div align="left">
    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbzama&layout=compact)
